@@ -1,0 +1,43 @@
+
+
+001 - WHAT IS C LANGUAGE
+
+
+The C Language is developed by Dennis Ritchie for creating system applications that directly interact with the hardware devices such as drivers, kernels, etc.
+
+C programming is considered as the base for other programming languages, that is why it is known as mother language.
+
+
+
+It can be defined by the following ways:
+
+1)  Mother language
+
+C language is considered as the mother language of all the modern programming languages because most of the compilers, JVMs, Kernels, etc. are written in C language, and most of the programming languages follow C syntax, for example, C++, Java, C#, etc.
+
+
+2)  System Programming Language
+
+C language is a system programming language because it can be used to do low-level programming (for example driver and kernel).
+It is generally used to create hardware devices, OS, drivers, kernels, etc.
+For example, Linux kernel is written in C.
+
+
+3)  Procedural Language
+
+A procedural language specifies a series of steps for the program to solve the problem.
+A procedural language breaks the program into functions, data structures, etc.
+C is a procedural language. In C, variables and function prototypes must be declared before being used.
+
+
+4)  Structured Programming Language
+
+A structured programming language is a subset of the procedural language.
+Structure means to break a program into parts or blocks so that it may be easy to understand.
+In the C language, we break the program into parts using functions.
+
+5)  Mid-Level Programming Language
+
+C is considered as a middle-level language because it supports the feature of both low-level and high-level languages.
+C language program is converted into assembly code, it supports pointer arithmetic (low-level), but it is machine independent (a feature of high-level).
+

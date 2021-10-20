@@ -1,0 +1,39 @@
+
+
+005 - FIRST C PROGRAM
+
+
+Before starting the abcd of C language, you need to learn how to write, compile and run the first c program.
+
+
+#include <stdio.h>
+#include <stdio.h> includes the standard input output library functions.
+The printf() function is defined in stdio.h .
+
+
+int main()
+The main() function is the entry point of every program in c language.
+
+
+printf()
+The printf() function is used to print data on the console.
+
+
+return 0
+The return 0 statement, returns execution status to the OS.
+The 0 value is used for successful execution and 1 for unsuccessful execution.
+
+
+
+
+How to Compile a C Program :-
+
+Open the Terminal and Navigate to the Directory where the C program is written.
+
+Type the following command to "compile" the C Program :-
+    gcc <file_name_of_c_program> -o <custom_name_of_executable_file>
+
+Type the following command to "execute" the executable file, that is generated after the compilation.
+
+    ./<custom_name_of_executable_file>
+

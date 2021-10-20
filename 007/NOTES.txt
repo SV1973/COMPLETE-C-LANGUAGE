@@ -1,0 +1,39 @@
+
+
+007 - printf() and scanf() in C 
+
+
+
+
+The printf() and scanf() functions are used for input and output in C language. Both functions are inbuilt library functions, defined in stdio.h (header file).
+
+
+
+
+printf() function
+
+The printf() function is used for output. It prints the given statement to the console.
+
+printf() SYNTAX :-
+
+printf("format string",argument_list);  
+
+The format string can be %d (integer), %c (character), %s (string), %f (float) etc.
+
+
+
+
+scanf() function
+
+The scanf() function is used for input. It reads the input data from the console.
+
+scanf("format string",&argument_list); 
+
+
+
+
+The '&' symbol states that the input values that is accepted from the console, should be stored at the spefic address of the variable that is followed by '&' symbol.
+
+
+
+

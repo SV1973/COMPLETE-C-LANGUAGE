@@ -1,0 +1,19 @@
+
+
+017 - CONSTANTS IN C 
+
+
+A constant is a value or variable that can't be changed in the program, for example: 10, 20, 'a', 3.4, "c programming" etc.
+
+
+
+
+There are two ways to define constant in C programming.
+
+1. The const keyword is used to define constant in C programming.
+
+const float PI=3.14; 
+
+2. The #define preprocessor is also used to define constant.
+
+#define PI 3.14

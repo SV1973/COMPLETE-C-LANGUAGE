@@ -1,0 +1,108 @@
+
+
+021 - STATIC IN C
+
+
+Static keyword can be used with both variables and functions, i.e., we can declare a static variable and static function as well.
+
+An ordinary variable is limited to the scope in which it is defined, while the scope of the static variable is throughout the program.
+
+
+
+
+Static keyword can be used in the following situations:
+
+Static global variable
+
+When a global variable is declared with a static keyword, then it is known as a static global variable. It is declared at the top of the program, and its visibility is throughout the program.
+
+Static function
+When a function is declared with a static keyword known as a static function. Its lifetime is throughout the program.
+
+Static local variable
+When a local variable is declared with a static keyword, then it is known as a static local variable.
+The memory of a static local variable is valid throughout the program, but the scope of visibility of a variable is the same as the automatic local variables.
+However, when the function modifies the static local variable during the first function call, then this modified value will be available for the next function call also.
+
+Static member variables
+When the member variables are declared with a static keyword in a class, then it is known as static member variables.
+It can be accessed by all the instances of a class, not with a specific instance.
+
+Static method
+The member function of a class declared with a static keyword is known as a static method.
+It is accessible by all the instances of a class, not with a specific instance.
+
+
+
+
+
+Static variable
+
+A static variable is a variable that persists its value across the various function calls.
+
+STATIC VARIABLE DECLARATINO SYNTAX :-
+
+static data_type variable_name;
+
+
+
+
+Static Function
+
+As we know that non-static functions are global by default means that the function can be accessed outside the file also, but if we declare the function as static, then it limits the function scope. The static function can be accessed within a file only.
+
+STATIC FUNCTION DECLARATION SYNTAX :-
+
+static retrun_type function_name() {  
+    
+    // block_of_code;
+
+}  
+
+
+
+
+
+
+DIFFERENCE BETWEEN STATIC AND GLOBAL VARIABLE :- 
+
+Global variables are the variables that are declared outside the function. These global variables exist at the beginning of the program, and its scope remains till the end of the program. It can be accessed outside the program also.
+
+Static variables are limited to the source file in which they are defined, i.e., they are not accessible by the other source files.
+
+Static initialization means if we do not assign any value to the variable then by default, 0 value will be assigned to the variable.
+
+
+
+
+
+
+DIFFERENCE BETWEEN STATIC LOCAL AND STATIC GLOBAL VARIABLE :- 
+
+Static global Variable :- 
+
+If the variable declared with a static keyword outside the function, then it is known as a static global variable. It is accessible throughout the program.
+
+
+Static Local Variable :-
+
+The variable with a static keyword is declared inside a function is known as a static local variable.
+The scope of the static local variable will be the same as the automatic local variables, but its memory will be available throughout the program execution.
+When the function modifies the value of the static local variable during one function call, then it will remain the same even during the next function call.
+
+
+
+
+
+
+PROPERTIES OF STATIC VARIABLE :- 
+
+The memory of a static variable is allocated within a static variable.
+
+Its memory is available throughout the program, but the scope will remain the same as the automatic local variables.
+
+Its value will persist across the various function calls.
+
+If we do not assign any value to the variable, then the default value will be 0.
+
+A global static variable cannot be accessed outside the program, while a global variable can be accessed by other source files.

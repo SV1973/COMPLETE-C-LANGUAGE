@@ -1,0 +1,40 @@
+
+
+020 - C BOOLEAN
+
+In C, Boolean is a data type that contains two types of values, i.e., 0 and 1.
+
+Basically, the bool type value represents two types of behavior, either true or false.
+
+Here, '0' represents false value, while '1' represents true value.
+
+In C Boolean, '0' is stored as 0, and another integer is stored as 1. We do not require to use any header file to use the Boolean data type in C++
+
+But in C, we have to use the header file, i.e., stdbool.h. If we do not use the header file, then the program will not compile.
+
+
+SYNTAX TO DECLARE BOOLEAN VARIABLE :- 
+
+bool variable_name;  
+
+
+
+
+Boolean Array
+The Boolean array can contain either true or false value, and the values of the array can be accessed with the help of indexing.
+
+bool array_name[size] = {boolean_values ...}};
+
+
+
+
+There is another way of using Boolean value, i.e., typedef.
+
+Basically, typedef is a keyword in C language , which is used to assign the name to the already existing datatype.
+
+we use the Boolean values, i.e., true and false, but we have not used the bool type. We use the Boolean values by creating a new name of the 'bool' type.
+In order to achieve this, the typedef keyword is used in the program.
+
+typedef enum{false,true} b;  
+
+The above statement creates a new name for the 'bool' type, i.e., 'b' as 'b' can contain either true or false value. We use the 'b' type in our program and create the 'x' variable of type 'b'.

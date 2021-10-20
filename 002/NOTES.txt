@@ -1,0 +1,10 @@
+
+
+002 - HISTORY OF C LANGUAGE
+
+
+C programming language was developed in 1972 by Dennis Ritchie at bell laboratories of AT&T (American Telephone & Telegraph), located in the U.S.A.
+
+Dennis Ritchie is known as the founder of the c language.
+
+Initially, C language was developed to be used in UNIX operating system.

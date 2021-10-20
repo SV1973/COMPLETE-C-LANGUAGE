@@ -1,0 +1,63 @@
+
+PROGRAMMING ERROS IN C
+
+
+Errors are the problems or the faults that occur in the program, which makes the behavior of the program abnormal, and experienced developers can also make these faults.
+
+Programming errors are also known as the bugs or faults, and the process of removing these bugs is known as debugging.
+
+
+
+
+
+
+There are mainly five types of errors exist in C programming:
+
+
+
+
+Syntax Error :- 
+
+Syntax errors are also known as the compilation errors as they occurred at the compilation time, or we can say that the syntax errors are thrown by the compilers.
+
+These errors are mainly occurred due to the mistakes while typing or do not follow the syntax of the specified programming language.
+
+
+
+
+Run-time Error :- 
+
+Sometimes the errors exist during the execution-time even after the successful compilation known as run-time errors.
+
+When the program is running, and it is not able to perform the operation is the main cause of the run-time error.
+
+These errors are very difficult to find, as the compiler does not point to these errors.
+
+
+
+
+
+Linker Error :- 
+
+Linker errors are mainly generated when the executable file of the program is not created. 
+
+This can be happened either due to the wrong function prototyping or usage of the wrong header file.
+
+
+
+
+
+
+Logical Error :- 
+
+The logical error is an error that leads to an undesired output. These errors produce the incorrect output, but they are error-free, known as logical errors.
+The occurrence of these errors mainly depends upon the logical thinking of the developer.
+
+
+
+
+
+
+Semantic Error :- 
+
+Semantic errors are the errors that occurred when the statements are not understandable by the compiler.

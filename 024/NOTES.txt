@@ -1,0 +1,27 @@
+
+CONDITIONAL OPERATOR IN C
+
+The conditional operator is also known as a ternary operator.
+
+The conditional statements are the decision-making statements which depends upon the output of the expression.
+
+It is represented by two symbols, i.e., '?' and ':'.
+
+
+CONDITINAL OPERATOR DEFINITION SYNTAX :-
+
+boolean_expression ? return_if_true : return_if_false;
+
+
+
+
+
+Difference between conditional operator and if-else statement :-
+
+A conditional operator is a single programming statement, while the 'if-else' statement is a programming block in which statements come under the parenthesis.
+
+A conditional operator can also be used for assigning a value to the variable, whereas the 'if-else' statement cannot be used for the assignment purpose.
+
+It is not useful for executing the statements when the statements are multiple, whereas the 'if-else' statement proves more suitable when executing multiple statements.
+
+The nested ternary operator is more complex and cannot be easily debugged, while the nested 'if-else' statement is easy to read and maintain.

@@ -1,0 +1,83 @@
+
+
+019 - TOKENS IN C
+
+
+We can define the token as the smallest individual element in C.
+
+We can say that tokens in C is the building block or the basic component for creating a program in C language.
+
+
+
+
+Classification of tokens in C
+
+Tokens in C language can be divided into the following categories:
+
+
+Keywords in C
+
+Keywords in C can be defined as the pre-defined or the reserved words having its own importance, and each keyword has its own functionality.
+
+Since keywords are the pre-defined words used by the compiler, so they cannot be used as the variable names.
+
+
+Identifiers in C
+
+Identifiers in C are used for naming variables, functions, arrays, structures, etc.
+
+Identifiers in C are the user-defined words.
+
+It can be composed of uppercase letters, lowercase letters, underscore, or digits, but the starting letter should be either an underscore or an alphabet.
+
+
+Strings in C
+
+Strings in C are always represented as an array of characters having null character '\0' at the end of the string.
+
+This null character denotes the end of the string.
+
+Strings in C are enclosed within double quotes, while characters are enclosed within single characters.
+
+
+Operators in C
+
+Operators in C is a special symbol used to perform the functions.
+
+The data items on which the operators are applied are known as operands. Operators are applied between the operands.
+
+A unary operator is an operator applied to the single operand. For example: increment operator (++), decrement operator (--), sizeof, (type)*.
+
+The binary operator is an operator applied between two operands. The following is the list of the binary operators:
+
+Arithmetic Operators
+Relational Operators
+Shift Operators
+Logical Operators
+Bitwise Operators
+Conditional Operators
+Assignment Operator
+Misc Operator
+
+
+Constant in C
+
+Constants in C
+
+A constant is a value assigned to the variable which will remain the same throughout the program, i.e., the constant value cannot be changed.
+
+
+Special Characters in C
+
+Some special characters are used in C, and they have a special meaning which cannot be used for another purpose.
+
+They are as follows :- 
+
+Square brackets [ ]
+Simple brackets ( )
+Curly braces { }
+Comma (,)
+Hash/pre-processor (#)
+Asterisk (*)
+Tilde (~)
+Period (.)

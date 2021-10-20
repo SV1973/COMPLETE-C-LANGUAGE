@@ -1,0 +1,26 @@
+
+
+013 - COMMENTS IN COMMENTS
+
+
+
+
+Comments in C language are used to provide information about lines of code.
+It is widely used for documenting code.
+
+
+
+
+There are 2 types of comments in the C language.
+
+Single Line Comments
+
+Single line comments are represented by double forward slash //. 
+
+
+Multi Line Comments
+
+Multi-Line comments are represented by slash asterisk /* ... */.
+It can occupy many lines of code, but it can't be nested.
+
+

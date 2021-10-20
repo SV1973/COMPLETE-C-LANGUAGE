@@ -1,0 +1,36 @@
+
+012 - C OPERATORS
+
+
+
+
+An operator is simply a symbol that is used to perform operations. There can be many types of operations like arithmetic, logical, bitwise, etc.
+
+There are following types of operators to perform different types of operations in C language.
+
+Arithmetic Operators.
+Relational Operators.
+Shift Operators.
+Logical Operators.
+Bitwise Operators.
+Ternary or Conditional Operators.
+Assignment Operators.
+Misc Operators.
+
+
+
+
+
+
+
+
+
+Precedence of Operators in C
+
+The precedence of operator species that which operator will be evaluated first and next.
+
+The associativity specifies the operator direction to be evaluated; it may be left to right or right to left.
+
+The precedence and associativity of C operators is given below:
+
+Refer the Website

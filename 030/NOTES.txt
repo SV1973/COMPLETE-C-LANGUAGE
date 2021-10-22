@@ -1,0 +1,72 @@
+
+030 - IF-ELSE VS SWITCH
+
+
+DEFINITION
+
+Depending on the condition in the 'if' statement, 'if' and 'else' blocks are executed.
+
+The user will decide which statement is to be executed.
+
+
+
+
+
+EXPRESSION
+
+It contains either logical or equality expression.
+
+It contains a single expression which can be either a character or integer variable.
+
+
+
+
+
+EVALUATION
+
+It evaluates all types of data, such as integer, floating-point, character or Boolean.
+
+It evaluates either an integer, or character.
+
+
+
+
+SEQUENCE OF EXECUTION
+
+First, the condition is checked. If the condition is true then 'if' block is executed otherwise 'else' block.
+
+It executes one case after another till the break keyword is not found, or the default statement is executed.
+
+
+
+
+
+DEFAULT EXECUTION
+
+If the condition is not true, then by default, else block will be executed.
+
+If the value does not match with any case, then by default, default statement is executed.
+
+
+
+
+
+EDITING
+
+Editing is not easy in the 'if-else' statement.
+
+Cases in a switch statement are easy to maintain and modify. The removal or editing of any case will not interrupt the execution of other cases.
+
+
+
+
+
+SPEED 
+
+If there are multiple choices implemented through 'if-else', then the speed of the execution will be slow.
+
+If we have multiple choices then the switch statement is the best option as the speed of the execution will be much higher than 'if-else'.
+
+
+
+

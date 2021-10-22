@@ -1,0 +1,11 @@
+
+040 - TYPECASTING IN C
+
+
+Typecasting allows us to convert one data type into other.
+
+In C language, we use cast operator for typecasting which is denoted by (type).
+
+
+
+

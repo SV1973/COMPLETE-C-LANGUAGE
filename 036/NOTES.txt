@@ -1,0 +1,45 @@
+
+036 - INFINITE LOOPS IN C
+
+
+WHAT IS AN INFINITE LOOP?
+
+An infinite loop is a looping construct that does not terminate the loop and executes the loop forever.
+
+It either produces a continuous output or no output.
+
+
+
+
+
+
+WHEN TO USE AN INFINITE LOOP?
+
+
+An infinite loop is useful for those applications that accept the user input and generate the output continuously until the user exits from the application manually.
+
+In the following situations, this type of loop can be used:
+
+All the operating systems run in an infinite loop as it does not exist after performing some task.
+
+All the servers run in an infinite loop as the server responds to all the client requests.
+
+All the games also run in an infinite loop. The game will accept the user requests until the user exits from the game.
+
+
+
+
+
+We can create an infinite loop through various loop structures. The following are the loop structures through which we will define the infinite loop:
+
+for loop
+while loop
+do-while loop
+go to statement
+C macros
+
+
+
+
+
+

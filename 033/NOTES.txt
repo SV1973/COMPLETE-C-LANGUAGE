@@ -1,0 +1,30 @@
+
+033 - WHILE LOOPS IN C
+
+While loop is also known as a pre-tested loop. 
+
+The while loop is mostly used in the case where the number of iterations is not known in advance.
+
+WHILE LOOPS SYNTAX :-
+
+while (condition) {  
+    // block_of_code; 
+} 
+
+
+
+
+
+PROPERTIES OF WHILE LOOP
+
+A conditional expression is used to check the condition. The statements defined inside the while loop will repeatedly execute until the given condition fails.
+
+The condition will be true if it returns any non-zero number. The condition will be false if it returns 0.
+
+In while loop, the condition expression is compulsory.
+
+Running a while loop without a body is possible.
+
+We can have more than one conditional expression in while loop.
+
+If the loop body contains only one statement, then the braces are optional.

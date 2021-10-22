@@ -1,0 +1,44 @@
+031 - C LOOPS
+
+The looping can be defined as repeating the same process multiple times until a specific condition satisfies.
+
+
+
+
+
+
+WHY USE LOOPS IN C LANGUAGE
+
+The looping simplifies the complex problems into the easy ones.
+
+It enables us to alter the flow of the program so that instead of writing the same code again and again, we can repeat the same code for a finite number of times.
+
+
+
+
+
+
+ADVANTAGES OF LOOPS
+
+1) It provides code reusability.
+
+2) Using loops, we do not need to write the same code again and again.
+
+3) Using loops, we can traverse over the elements of data structures (array or linked lists).
+
+
+
+
+
+
+TYPES OF C LOOPS
+
+There are three types of loops in C language
+that is given below:
+
+do while
+while
+for
+
+
+

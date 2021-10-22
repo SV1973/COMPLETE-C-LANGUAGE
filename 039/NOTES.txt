@@ -1,0 +1,18 @@
+
+039 - C GOTO STATEMENT
+
+
+The goto statement is known as jump statement in C.
+
+goto is used to transfer the program control to a predefined label.
+
+The goto statment can be used to repeat some part of the code for a particular condition.
+
+It can also be used to break the multiple loops which can't be done by using a single break statement.
+
+
+
+
+WHEN SHOULD WE USE GOTO 
+
+The only condition in which using goto is preferable is when we need to break the multiple loops using a single statement at the same time.

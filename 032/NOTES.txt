@@ -1,0 +1,19 @@
+
+032 - DO WHILE LOOP IN C
+
+
+The do while loop is a post tested loop. 
+
+The do-while loop is mainly used in the case where we need to execute the loop at least once.
+
+The do-while loop is mostly used in menu-driven programs where the termination condition depends upon the end user.
+
+
+DO WHILE LOOP SYNTAX :- 
+
+do {
+    // block_of_code;
+} while (condition);
+
+
+

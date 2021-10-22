@@ -1,0 +1,11 @@
+
+038 - CONTINUE STATEMENT
+
+The continue statement skips some lines of code inside the loop and continues with the next iteration.
+
+It is mainly used for a condition so that we can skip some code for a particular condition.
+
+
+
+
+

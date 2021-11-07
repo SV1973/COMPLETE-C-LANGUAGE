@@ -1,0 +1,46 @@
+
+
+042 - CALL BY VALUE AND CALL BY REFERENCE IN C
+
+There are two methods to pass the data into the function in C language,
+i.e., call by value and call by reference.
+
+
+
+
+
+
+
+
+
+
+
+
+CALL BY VALUE IN C :-
+
+In call by value method, the value of the arguments is copied into the parameters. In other words, we can say that the value of the variable is used in the function call in the call by value method.
+
+In call by value method, we can not modify the value of the arguments by the parameters.
+
+In call by value, different memory is allocated for arguments and parameters since the value of the arguments is copied into the parameters.
+
+The actual parameter is the argument which is used in the function call whereas formal parameter is the argument which is used in the function definition.
+
+
+
+
+
+
+
+
+
+
+
+
+CALL BY REFERENCE IN C :-
+
+In call by reference, the address of the variable is passed into the function call as the argument.
+
+The value of the arguments can be modified by changing the parameters since the address of the arguments is passed.
+
+In call by reference, the memory allocation is similar for both parameters and arguments. All the operations in the function are performed on the value stored at the address of the actual parameters, and the modified value gets stored at the same address.

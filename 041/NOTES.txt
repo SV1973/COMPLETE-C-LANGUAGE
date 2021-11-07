@@ -1,0 +1,149 @@
+
+
+041 - C FUNCTIONS
+
+
+
+
+We can divide a large program into the basic building blocks known as function.
+
+The function contains the set of programming statements enclosed by {}.
+
+A function can be called multiple times to provide reusability and modularity to the C program.
+
+
+
+
+
+
+
+
+
+
+
+
+ADVANTAGES OF FUNCTIONS IN C :-
+
+By using functions, we can avoid rewriting same logic/code again and again in a program.
+
+We can call C functions any number of times in a program and from any place in a program.
+
+We can track a large C program easily when it is divided into multiple functions.
+
+Reusability is the main achievement of C functions.
+
+However, Function calling is always a overhead in a C program.
+
+
+
+
+
+
+
+
+
+
+
+
+
+FUNCTIONS ASPECTS :-
+
+Function Declaration :- A function must be declared globally in a c program to tell the compiler about the function name, function parameters, and return type.
+
+FUNCTION DECLARATION SYNTAX :-
+
+return_type function_name (argument_list);
+
+
+Function Call :- Function can be called from anywhere in the program. The parameter list must not differ in function calling and function declaration. We must pass the same number of functions as it is declared in the function declaration.
+
+FUNCTION CALLING SYNTAX :-
+
+function_name (argument_list)
+
+
+Function Definition :- It contains the actual statements which are to be executed. It is the most important aspect to which the control comes when the function is called. Here, we must notice that only one value can be returned from the function.
+
+FUNCTION DEFINITION SYNTAX :-
+
+return_type function_name (argument_list) {
+    // block_of_code;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+TYPES OF FUNCTIONS :-
+
+Library Functions :- These are the functions which are declared in the C header files such as scanf(), printf(), gets(), puts(), ceil(), floor() etc.
+
+User-defined Functions :- These are the functions which are created by the C programmer, so that he/she can use it many times. It reduces the complexity of a big program and optimizes the code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+RETURN VALUE :-
+
+A C function may or may not return a value from the function. If you don't have to return any value from the function, use void for the return type.
+
+If you want to return any value from the function, you need to use any data type such as int, long, char, etc. The return type depends on the value to be returned from the function.
+
+
+
+
+
+
+
+
+
+
+
+
+
+DIFFERENT ASPECTS OF FUNCTION CALLING :-
+
+A function may or may not accept any argument. It may or may not return any value. Based on these facts, There are following four different aspects of function calls :-
+
+function without arguments and without return value
+function without arguments and with return value
+function with arguments and without return value
+function with arguments and with return value
+
+
+
+
+
+
+
+
+
+
+
+
+
+C LIBRARY FUNCTIONS :-
+
+Library functions are the inbuilt function in C that are grouped and placed at a common place called the library. Such functions are used to perform some specific operations.
+
+The library functions are created by the designers of compilers. All C standard library functions are defined inside the different header files saved with the extension '.h'.
+
+We need to include these header files in our program to make use of the library functions defined in such header files.
+

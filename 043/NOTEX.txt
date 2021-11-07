@@ -1,6 +1,6 @@
 
 
-042 - CALL BY VALUE AND CALL BY REFERENCE IN C
+043 - CALL BY VALUE AND CALL BY REFERENCE IN C
 
 There are two methods to pass the data into the function in C language,
 i.e., call by value and call by reference.

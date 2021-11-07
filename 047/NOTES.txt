@@ -1,0 +1,70 @@
+
+
+047 -  1-D ARRAYS
+
+
+An array is defined as the collection of similar type of data items stored at contiguous memory locations.
+
+Arrays are the derived data type in C programming language which can store the primitive type of data such as int, char, double, float, etc.
+
+C array is beneficial if you have to store similar elements.
+
+
+
+
+PROPERTIES OF AN ARRAY :-
+
+Each element of an array is of same data type and carries the same size
+
+Elements of the array are stored at contiguous memory locations where the first element is stored at the smallest memory location.
+
+Elements of the array can be randomly accessed since we can calculate the address of each element of the array with the given base address and the size of the data element.
+
+
+
+
+
+ADVANTAGES OF AN ARRAY :- 
+
+Code Optimization
+Ease of Traversing
+Ease of Sorting
+Random Access
+
+
+DISADVANTAGE OF ARRAY :-
+
+Fixed Size
+
+
+
+
+DECLARATION OF AN ARRAY SYNTAX :-
+
+data_type array_name[array_size];
+
+
+
+
+INITIALIZATION OF AN ARRAY SYNTAX :-
+
+array_name[index] = value;
+
+
+
+
+DECLARATION WITH INITIALIZATION OF AN ARRAY SYNTAX :-
+
+data_type array_name[size] = {values1, values2, ...};
+data_type array_name[] = {values1, values2, ...};
+
+
+
+
+
+
+
+
+
+
+

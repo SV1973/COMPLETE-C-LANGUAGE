@@ -1,0 +1,25 @@
+
+
+048 - 2-D ARRAYS
+
+
+The two-dimensional array can be defined as an array of arrays. 
+
+The 2D array is organized as matrices which can be represented as the collection of rows and columns.
+
+
+
+
+
+DECLARATION OF A 2D ARRAY :- 
+
+data_type array_name[rows][column];
+
+
+
+
+INITIALIZATION OF A 3D ARRAY :-
+
+array_name = {{row_values}, {row_values}, {row_values}};
+
+
